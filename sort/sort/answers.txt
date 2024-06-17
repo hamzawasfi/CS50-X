@@ -1,0 +1,11 @@
+sort1 uses: bubble
+
+How do you know?: worst 5.4 best 0.7
+
+sort2 uses: merge
+
+How do you know?: worst 0.9 best 0.8
+
+sort3 uses: selection sort
+
+How do you know?: worst 3 best 4
